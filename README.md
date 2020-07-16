@@ -26,7 +26,7 @@
 * **AWS**
 ***
 ### &#128587;자세히
-* **트위터:<https://twitter.com/y_s_b_dev>
-* **개인블로그:<https://subindev.tistory.com/>
-* **이메일:<ysb5938@naver.com>
+* **트위터:** <https://twitter.com/y_s_b_dev>
+* **개인블로그:** <https://subindev.tistory.com/>
+* **이메일:** <ysb5938@naver.com>
 
