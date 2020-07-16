@@ -10,14 +10,6 @@
 
 [![yangsubin github stats](https://github-readme-stats.vercel.app/api?username=yangsubindev)](https://github.com/anuraghazra/github-readme-stats)
 ***
-### &#128150;관심분야
-벡엔드부분에 관심이 많으며 안드로이드 공부를 병행하고있습니다
-#### &#9997;study
-* **JAVA**
-* **Android**
-* **Node.js**
-* **AWS**
-***
 ### &#128587;자세히
 * **트위터:** <https://twitter.com/y_s_b_dev>
 * **개인블로그:** <https://subindev.tistory.com/>
