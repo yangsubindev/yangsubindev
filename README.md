@@ -10,13 +10,6 @@
 
 [![yangsubin github stats](https://github-readme-stats.vercel.app/api?username=yangsubindev)](https://github.com/anuraghazra/github-readme-stats)
 ***
-### zium me  
-
-사실 학창시절 방황하던 시절이있었습니다. 
-그로인해 만들려했던 앱아이디어가생각이 나서 만들게되었는데
-차츰 공부후에 공개할예정입니다.
-***
-
 ### &#128150;관심분야
 벡엔드부분에 관심이 많으며 안드로이드 공부를 병행하고있습니다
 #### &#9997;study
