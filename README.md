@@ -1,5 +1,5 @@
 
-![지움_1](https://user-images.githubusercontent.com/51535640/87578395-5142f180-c70f-11ea-8b37-3380147a0cb9.gif)
+![지움_1](https://user-images.githubusercontent.com/51535640/87687087-46946500-c7c0-11ea-8c14-a7d0402c5c4c.gif)
 
 ### &#128306;Yang su bin
 ***
