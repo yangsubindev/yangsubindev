@@ -13,4 +13,5 @@
 ### &#128587;자세히
 * **개인블로그:** <https://subindev.tistory.com/>
 * **이메일:** <yangsubindev@gmail.com>
+* **notion** <https://www.notion.so/2137c68fcd32401489a9b88fea7797fa>
 
