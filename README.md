@@ -12,5 +12,5 @@
 ***
 ### &#128587;자세히
 * **개인블로그:** <https://subindev.tistory.com/>
-* **이메일:** <ysb5938@naver.com>
+* **이메일:** <yangsubindev@gmail.com>
 
